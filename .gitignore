@@ -1,0 +1,18 @@
+# Environment and secrets (never commit real keys)
+.env
+.env.local
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
