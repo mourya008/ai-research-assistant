@@ -6,7 +6,7 @@ A multi-agent system powered by CrewAI that conducts comprehensive research on a
 
 **[View in AI Portfolio Dashboard](https://unharmable-threadlike-ruth.ngrok-free.dev)** | **[Direct Access](https://unharmable-threadlike-ruth.ngrok-free.dev:8003)**
 
-> Part of **[Nihal's AI Portfolio](https://unharmable-threadlike-ruth.ngrok-free.dev)** - Unified dashboard featuring 5 cutting-edge AI services
+> Part of **[Mourya's AI Portfolio](https://unharmable-threadlike-ruth.ngrok-free.dev)** - Unified dashboard featuring 5 cutting-edge AI services
 
 ## Overview
 
@@ -35,7 +35,7 @@ This project uses three specialized AI agents that collaborate to research topic
 
 1. Clone the repository
 ```bash
-git clone https://github.com/nihal-5/ai-research-assistant.git
+git clone https://github.com/mourya008/ai-research-assistant.git
 cd ai-research-assistant
 ```
 
@@ -168,8 +168,8 @@ MIT License - Free to use for personal and educational purposes
 
 ## Author
 
-Nihal Veeramalla  
-[GitHub](https://github.com/nihal-5) • [LinkedIn](https://linkedin.com/in/nihal-veeramalla)
+Mourya  
+[GitHub](https://github.com/mourya008) • [LinkedIn](https://linkedin.com/in/mourya)
 
 ## Acknowledgments
 

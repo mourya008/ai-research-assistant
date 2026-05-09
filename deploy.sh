@@ -16,9 +16,9 @@ read -p "Press ENTER after you've created the repository..."
 
 echo ""
 echo "Adding remote and pushing code..."
-git remote add origin https://github.com/nihal-5/ai-research-assistant.git 2>/dev/null || git remote set-url origin https://github.com/nihal-5/ai-research-assistant.git
+git remote add origin https://github.com/mourya008/ai-research-assistant.git 2>/dev/null || git remote set-url origin https://github.com/mourya008/ai-research-assistant.git
 git push -u origin main
 
 echo ""
 echo "✅ Done! Your project is now live at:"
-echo "https://github.com/nihal-5/ai-research-assistant"
+echo "https://github.com/mourya008/ai-research-assistant"
